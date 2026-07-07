@@ -1,6 +1,8 @@
 node_modules/
+node-compile-cache/
 .next/
 out/
 build/
 .env*.local
+.portfolio-cache.json
 .DS_Store
