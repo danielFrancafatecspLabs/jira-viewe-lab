@@ -6,3 +6,4 @@ build/
 .env*.local
 .portfolio-cache.json
 .DS_Store
+.worktrees/
